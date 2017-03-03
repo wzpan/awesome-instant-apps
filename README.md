@@ -11,6 +11,7 @@
 - [Documentation](#documentation)
 - [Video](#video)
 - [Tips](#tips)
+- [Related techniques](#related-techniques)
 - [License](#license)
 
 ## Apps
@@ -34,7 +35,23 @@
 
 ## Tips
 
-- [Preparing your app](https://developer.android.com/topic/instant-apps/prepare.html)
+- [Preparing Your App](https://developer.android.com/topic/instant-apps/prepare.html)
+
+## Related techniques
+
+### App links
+
+- [Handling App Links](https://developer.android.com/training/app-links/index.html)
+- [Handling App Links and the guide to implementing Digital Asset Links](https://developers.google.com/digital-asset-links/)
+
+### Runtime permissions
+
+- [Requesting Permissions at Runtime](https://developer.android.com/training/permissions/requesting.html)
+
+### Authentication
+
+- [Google sign-in](https://developers.google.com/identity/)
+- [Smart lock](https://developers.google.com/identity/smartlock-passwords/android/)
 
 ## License
 
