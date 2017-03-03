@@ -34,7 +34,7 @@
 
 ## Tips
 
-- [Preparing Your App](https://developer.android.com/topic/instant-apps/prepare.html)
+- [Preparing your app](https://developer.android.com/topic/instant-apps/prepare.html)
 
 ## License
 
